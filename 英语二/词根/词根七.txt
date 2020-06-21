@@ -1,0 +1,139 @@
+一 “script，scrib” ：写，笔迹
+1.script            n.剧本，文字体系，笔记
+2.manuscript        n.手稿，原稿，底稿，手写本
+3.inscribe          v.铭刻
+4.inscription       n.题词，铭文，刻印
+5.describe          v.描写，形容
+6.description       n.描写，种类，性质
+7.prescribe         v.开(药方)，规定，指定
+8.prescription      n.处方，开处方，计划，建议
+9.ascribe           v.把...归因于...，归咎于
+10.subscribe        v.订阅，同意，签署，捐助
+11.subscription     n.订购，签署，订阅费
+
+二 “scop”：观察，镜
+1.scope             n.范围，余地，视野，眼界 v.审视
+2.misroscope        n.显微镜
+3.macroscopic       adj.宏观的，肉眼可见的
+4.microscopic       adj.微观的，用显微镜可见的
+5.telescope         n.望远镜
+
+三 “sens，sent”：感觉
+1.sense             n./v.感官，感觉，见识
+2.sensible          adj.明智的，合情合理的
+3.sensitive         adj.敏感的，易受伤害的
+4.sensational       adj.轰动的，耸人听闻的，非常好的，使人感动的
+5.sentimental       adj.情感的，伤感的
+6.scene             n.背景，景色，舞台
+7.scenery           n.风景，舞台布景
+8.scent             n.香味，线索 v.嗅到，察觉
+9.sentence          n./v.判决，宣判
+10.present          adj.出席的，现在的
+11.presence         n.存在，出席，参加，风度
+12.presentation     n.提供，授予，报告，表演
+13.absent           adj.缺席的，缺乏的
+14.absence          n.没有，缺乏，缺席，不注意
+15.resent           v.愤恨，怨恨
+16.resentful        adj.憎恨的
+17.consent          n./v.准许，同意，赞成
+18.consensus        n.意见一致
+19.dissent          n.意见分歧 v.不同意，持异议
+20.represent        v.代表，象征
+21.representative   n.代表 adj.有代表性的，典型的
+
+四 “sequ，secut，su”：连续
+1.sequence          n.连续，一连串，顺序
+2.sequential        adj.连续的，有顺序的
+3.subsequence       n.后继，随后
+4.subsequent        adj.随后的，后来的
+5.consequence       n.结果，重要
+6.consequent        adj.作为后果的，随之发生的
+7.consequently      adv.所以，因此
+8.pursue            v.继续，从事，追求
+9.pursuit           n.追求，嗜好，消遣
+
+五 “simil，simul”：相似，相同
+1.similar           adj.相似的 n.类似物
+2.similarity        n.类似，相似点
+3.simulate          v.模仿，假装，冒充 adj.模仿的，假装的
+4.simulation        n.仿真，模拟，模仿，假装
+5.assimilate        v.吸收，使同化，把...比作
+6.dissimulate       v.掩饰，假装，装糊涂
+7.simultaneous      adj.同时的，联立的，同时发生的 n.同时译员
+8.resemble          v.类似，像
+
+六 “sist”：站，留，坐
+1.resist            v.抵抗，抗拒，忍耐 n.防染剂
+2.resistance        n.助手，助理，助教 adj.辅助的，助理的
+3.exist             v.存在，生存，生活
+4.insist            v.坚持，强调
+5.persist           v.存在，坚持，持续，固执，坚持说，反复说
+6.persistence       n.持续，固执，存留，毅力
+7.persistent        adj.固执的，坚持的，持久稳固的
+
+七 “soci”：伙伴，交往，联系
+1.social            adj.社会的，交际的
+2.socialism         n.社会主义
+3.socialist         n.社会主义者 adj.社会主义的
+4.society           n.社会，社团，协会
+5.sociology         n.社会学
+6.sociologist       n.社会学家
+7.associate         v.联想，联合 n.伙伴 adj.联合的
+8.association       n.联盟，社团，联合
+9.dissociate        v.分离，分开，断绝关系
+
+八 “spec，spect，spic，spise”：看
+1.spectacle         n.场面，景象，眼镜
+2.spectacular       adj.壮观的 n.惊人之举
+3.spectator         n.观众，旁观者
+4.inspect           v.检查，视察，检阅
+5.inspection        n.视察，检查
+6.inspector         n.检察员，巡视员
+7.introspect        v.反省，内省，对...进行反省
+8.expect            v.期望，指望，认为，预料
+9.expectable        adj.能预期的，意料中的
+10.expectation      n.期待，预期，指望
+11.respect          n.敬意，尊重，恭敬，某方面 v.尊重，尊敬，关心，遵守
+12.respectiful      adj.恭敬的，尊敬的
+13.respectable      adj.值得尊敬的
+14.respective       adj.各自的
+15.respecting       prep.关于，就...而言，鉴于
+16.retrospect       n.回顾，追溯 v.回顾，追忆，回想
+17.prospect         n.前途，预期 v.勘探，勘察
+18.prospective      adj.预期的，未来的
+19.aspect           n.方面，方向，面貌，外观
+20.suspect          n.嫌疑犯 adj.可疑的 v.怀疑，猜想
+21.suspicious       adj.猜疑的，可疑的
+22.despise          v.鄙视，看不起
+
+九 “spri，mind”：气，喘气，呼吸
+1.spirit            n.精神，心灵，情绪，志气 v.鼓励，鼓舞
+2.spiritual         adj.精神的，心灵的
+3.inspire           v.激发，鼓舞，启示，产生
+4.inspiration       n.灵感，鼓舞，吸气，妙计
+5.respire           v.呼吸
+6.respiration       n.呼吸，呼吸作用
+7.aspire            v.渴望，立志，追求
+8.aspiration        n.渴望，抱负
+9.conspire          v.共谋，协力，密谋
+10.conspiracy       n.阴谋，共谋，阴谋集团
+11.expire           v.期满，终止，死亡，呼气
+
+十 “stru，struct”：建造
+1.structure         v.建立，建造 n.结构，构造，建筑物
+2.structural        adj.结构的，建筑的
+3.instruct          v.指示，通知，教育
+4.instruction       n.命令，指示，教学
+5.instructor        n.教练，导师，讲师
+6.instrument        n.仪器，工具，乐器
+7.instrumental      adj.起作用的，用乐器演奏的
+8.construct         v.建造，构思 n.建筑物，构想
+9.construction      n.建造
+10.reconstruct      v.重建，再建
+11.destruct         v.破坏
+12.destruction      n.破坏，毁灭，消灭
+13.destructive      adj.破坏的，毁灭性的，有害的
+14.obstruct         v.妨碍，阻碍
+15.obstruction      n.妨碍，闭塞
+
+
