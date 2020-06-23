@@ -1,2 +1,152 @@
 一 “sur” ：肯定的，安全的
-1.script            n.
+1.sure              adj.确信的，可靠的，必定的 adv.当然，的确
+2.assure            v.保证，使确信
+3.ensure            v.确保，使安全
+4.insure            v.保证，给...保险
+5.reassure          v.使...安心，使消除疑虑
+6.secure            v.保护 adj.安全的，稳当的
+
+二 “tain，ten，tin”：抓住，保持
+1.contain           v.包含，控制
+2.container         n.容器，集装箱
+3.content           n.内容，满意 adj.满意的 v.使满意
+4.contented         adj.满意的，满足的
+5.discontent        n./v./adj.不满意，不满者
+6.continent         n.大陆，洲
+7.attain            v.达到
+8.attainment        n.达到，成就
+9.tenant            n.房客，佃户
+10.continue         v.继续，延续，仍旧，使...继续
+11.continuous       adj.连续不断的
+12.continual        adj.不间断的，多次重复的，有停顿的
+13.continuity       n.连续
+12.detain           v.拘留，留住
+13.detention        n.拘留，阻延
+14.entertain        v.招待，给娱乐
+15.entertainment    n.文娱节目，招待
+16.obtain           v.获得，通用，妨碍
+17.sustain          v.保持，供养，经受
+18.sustainable      adj.可持续性，可持续的
+19.maintain         v.维持，维修，瞻养，负担
+20.maintenance      n.维修，抚养费，维持，保持
+21.retain           v.保留，保持
+22.retention        n.保留，保持   
+
+三 “tect” ：覆盖
+1.detect            v.察觉，发现，探测
+2.detection         n.侦察，探测，发觉，发现
+3.detective         adj.侦探的 n.侦探
+4.protect           v.保护，防卫，警戒
+5.protection        n.保护，防卫，护照
+6.protectionism     n.保护主义，贸易保护主义，贸易保护制度
+7.protective        adj.防护的，关切保护的，保护贸易的
+8.protector         n.保护器，保护者，保护装置，防御者
+
+四 “tract，treat” ：拉，牵，引
+1.tractor           n.拖拉机，牵引机
+2.trace             v.追溯，沿路走，追踪 n.痕迹，踪迹
+3.track             n.轨道，足迹，小道 v.追踪，通过，走，留下足迹
+4.train             n.火车，行列 v.培养，培训
+5.trolley           n.手推车，有轨电车 v.乘电车
+6.tram              n.电车轨道，煤车 v.用煤车运载，乘电车
+7.attract           v.吸引，引起
+8.extrct            v.提取，榨取，摘录 n.汁，摘录，榨出物
+9.distract          v.转移，分心
+10.contract         v.收缩，感染，订约 n.合同，婚约
+11.abstract         n.摘要，抽象 adj.抽象的，深奥的 v.摘要，做摘要，使...抽象化
+12.subtract         v.减去，扣掉
+13.retreat          n.撤退 v.退，撤退，向后退
+14.retrieve         v.重新得到 n.恢复，取回
+
+五 “wad，vas” ：行走
+1.wade              v.跋涉，涉水，费力行走 n.跋涉
+2.waddle            n.蹒跚，摇摆的步子 v.蹒跚而行
+3.invade            v.侵略，侵袭，侵入
+4.invasion          n.入侵，侵略，侵袭
+5.invasive          adj.侵略性的，攻击性的
+6.evade             v.逃避，规避，逃脱
+7.evasion           n.逃避，回避，借口
+8.evasive           adj.逃避的，托辞的，推脱的
+9.pervade           v.遍及，弥漫
+10.pervasion        n.渗透，扩散，普及，流行
+11.pervasive        adj.普及的，到处渗透的，流行的
+
+六 “vari” ：变化
+1.vary              v.变化，变异，违反，改变
+2.variety           n.多样，种类，杂耍，变化
+3.various           adj.各种各样的，多方面的
+4.varied            adj.多变的，变化的，各式各样的
+5.variable          adj.变量的，可变的，易变的 n.变量，可变物
+6.invariable        adj.不变的，常数的 n.常数，不变的东西
+
+七 “vert，vers” ：转
+1.advertise         v.通知，为...做广告，使突出，作宣传
+2.advertisement     n.广告，宣传
+3.divert            v.转移，使...转向，转移
+4.adverse           adj.不利的，相反的，敌对的
+5.divorce           v.使离婚，使分离，与...离婚 n.离婚，分离
+6.reverse           n.背面，相反，倒退 v.颠倒，倒转 adj.反面的，颠倒的，反身的
+7.convert           v.使转变，转换...，使...改变信仰 n.昄依者
+8.versatile         adj.多才多艺的，通用的，万能的，多面手的
+9.controversy       n.争论，论战，辩论
+10.invert           v.使...转化，使...颠倒，使...反转  n.倒置物，颠倒的事物 adj.转化的
+11.version          n.版本，译文
+12.diverse          adj.不同的，多种多样的，变化多的
+13.diversify        v.使多样化，使变化
+14.diversity        n.多样性，差异
+
+八 “vid，vis” ：看见
+1.video             n.视频，录像 adj.视频的，电视的 v.录制
+2.vision            n.视力，洞察力，想象力，幻觉
+3.visionary         adj.幻想的，幻觉的
+4.visual            adj.视力的
+5.visible           adj.明显的，看得见的，现有的 n.可见物
+6.invisible         adj.看不见的，无形的
+7.visualize         v.使可视化，使具体化，使形象化
+8.visit             n.访问，参观 v.访问，参观，暂住
+9.evident           adj.明显的，明白的
+10.view             n.景观，景色，观点 v.看待
+11.review           n./v.审查，复习，评论
+12.preview          n./v.预览，试映，事先查看
+13.interview        n.接见，采访，面试 v.采访，接见，对...进行面谈
+14.overview         n.综述，概观
+15.supervise        v.监督
+16.revise           v.修正，修改
+
+九 “viv” ：活
+1.vivid             adj.生动的，鲜明的，鲜艳的
+2.vitamin           n.维生素，维他命
+3.vigor             n.活力，精力
+4.vigorous          adj.有力的，精力充沛的
+5.invigorate        v.鼓舞，使精力充沛
+6.vital             adj.至关重要的，有活力的
+7.revitalize        v.使...复活，使...复兴
+8.devitalize        v.使衰弱，夺取生命
+9.revive            v.复兴，复苏，复活 v.使复兴，使复活
+10.revival          n.复兴，复活，苏醒
+11.survive          v.幸存，生还，幸免于，活下来
+12.survival         n.幸存，残存，幸存者
+
+十 “voc，voke，vot，vow” ：喊
+1.voice             n.嗓音，发言权 v.说话
+2.advocate          v.拥护 n.拥护者
+3.devote            v.将奉献给，宣誓给予
+4.evoke             v.唤起，引起
+5.provoke           v.对挑衅，激起
+6.revoke            v.撤回，取消，废除
+7.vote              n.票 v.投票 
+8.veto              n.否决
+9.vocabulary        n.词汇表
+10.vocal            adj.直言不讳的，嗓音的 n.声乐节目
+11.vocation         n.职业，天职，天命
+12.vacation         n.假期，搬出 v.度假，休假
+
+十一 “volve，volut，val，valv” ：卷，转
+1.evolve            v.演变，进化，发展
+2.evolution         n.演变，进化，发展
+3.involve           v.包含，含有，使卷入
+4.revolve           v.旋转
+5.revolution        n.革命，大变革，旋转
+6.revolutionary     adj.革命的，革新的 n.革命者
+7.revolt            v.反叛，反抗，使厌恶
+8.convolve          v.卷，盘旋
